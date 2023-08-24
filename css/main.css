@@ -39,7 +39,7 @@ h2 {
 
 
 /****** Header Styles ******/
-.homepage-hero {
+#homepage-hero {
     background: url("../img/full-background.png") #f9efef;
     background-position: center;
     background-size: cover;
